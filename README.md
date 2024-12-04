@@ -6,13 +6,29 @@
 </div>
 
 <div style="text-align: center;">
-  <img src="https://www.uvlhub.io/static/img/logos/logo-light.svg" alt="Logo">
+  <img src="https://realacademiadegastronomia.com/wp-content/uploads/2021/05/Salmorejo-BAJA.jpg" alt="Salmorejo">
 </div>
 
-# uvlhub.io
+# salmorejo-hub-1
 
-Repository of feature models in UVL format integrated with Zenodo and flamapy following Open Science principles - Developed by DiversoLab
+* Grupo 3
+* Curso escolar: 2024/2025
+* Asignatura: Evolución y gestión de la configuración
 
-## Official documentation
+## Miembros del equipo (en orden alfabético según apellido): escala de 1 al 10 con el esfuerzo hecho en el proyecto (10 mayor implicación, 1 menor implicación)
 
-You can consult the official documentation of the project at [docs.uvlhub.io](https://docs.uvlhub.io/)
+| Miembro | Implicación |
+| ------------- | ------------- |
+| [Cantero Corchero, Isabel](https://github.com/isacancor) | [1-10] |
+| [Fuentelsaz Rodríguez, David](https://github.com/DavidFuentelsazRodriguez) | [1-10] |
+| [Galán Lerate, Miguel](https://github.com/Migueel0) | [1-10] |
+| [Jiménez Ortega, Antonio](https://github.com/antjimort) | [1-10] |
+| [Rodríguez López, Josué](https://github.com/JosueRodLop) | [1-10] |
+| [Santos Martín, Javier](https://github.com/javsanmar5) | [1-10] |
+
+## Enlaces de interés:
+* [Repositorio de código](https://github.com/salmorejo-hub-1/uvlhub) 
+* [Sistema desplegado](https://uvlhub-salmorejo-hub.onrender.com/) 
+* [Documentación oficial](https://docs.uvlhub.io/) 
+* [Documento del Proyecto](https://github.com/salmorejo-hub-1/uvlhub/tree/main/docs/Documento-del-Proyecto.md) 
+* [Diario del Equipo](https://github.com/salmorejo-hub-1/uvlhub/tree/main/docs/Diario-del-Equipo.md) 

@@ -1,18 +1,25 @@
-Esta es una plantilla propuesta para llevar el diario del equipo. Esta plantilla se puede modificar o adaptar según las necesidades pero el diario del equipo debe seguir las recomendaciones que se exponen en este documento y en el enunciado del "Proyecto de curso" que se encuentra disponible en la [wiki de la asignatura](https://1984.lsi.us.es/wiki-egc/).
+# salmorejo-hub-1 - Diario del Equipo
 
-Es importante que no haga un diario con todas las decisiones que tome, solo incluya las que sean de interés para el desarrollo del proyecto en equipo
-
-# Nombre del proyecto, por ejemplo: salmorejo-hub
-(usar el nombra del proyecto siguiendo el patrón indicado)
-* grupo X (1, 2 o 3 según corresponda)
+* Grupo 3
 * Curso escolar: 2024/2025
 * Asignatura: Evolución y gestión de la configuración
+
 ## Miembros del grupo (en orden alfabético según apellido): 
-* [Apellidos, nombre](https://github.com/nombredeusuariodegithub)
-* [Apellidos, nombre](https://github.com/nombredeusuariodegithub)
-* [Apellidos, nombre](https://github.com/nombredeusuariodegithub)
-* [Apellidos, nombre](https://github.com/nombredeusuariodegithub)
-* [Apellidos, nombre](https://github.com/nombredeusuariodegithub)
+* [Cantero Corchero, Isabel](https://github.com/isacancor)
+* [Fuentelsaz Rodríguez, David](https://github.com/DavidFuentelsazRodriguez)
+* [Galán Lerate, Miguel](https://github.com/Migueel0)
+* [Jiménez Ortega, Antonio](https://github.com/antjimort)
+* [Rodríguez López, Josué](https://github.com/JosueRodLop)
+* [Santos Martín, Javier](https://github.com/javsanmar5)
+
+## Enlaces de interés:
+* [Repositorio de código](https://github.com/salmorejo-hub-1/uvlhub) 
+* [Sistema desplegado](https://uvlhub-salmorejo-hub.onrender.com/) 
+* [Documentación oficial](https://docs.uvlhub.io/) 
+* [Documento del Proyecto](https://github.com/salmorejo-hub-1/uvlhub/tree/main/docs/Documento-del-Proyecto.md) 
+* [Diario del Equipo](https://github.com/salmorejo-hub-1/uvlhub/tree/main/docs/Diario-del-Equipo.md) 
+
+---
 
 # Resumen de total de reuniones empleadas en el equipo
 * Total de reuniones: TR

@@ -1,28 +1,28 @@
-El documento del proyecto debe ser un documento que sintetice los aspectos del proyecto elegido para su desarrollo con respecto a los temas vistos en clases. 
+# salmorejo-hub-1 - Documento del Proyecto
 
-Debe tener claramente identificados los nombres y apellidos de cada componente, grupo al que pertenecen (1, 2, o 3 mañana o tarde), curso académico, nombre del proyecto (seguir la política de nombres). Use este [[modelo de portada]] para el documento del proyecto y alójelo en su repositorio o en una página del [wiki](https://1984.lsi.us.es/wiki-egc/) de la asignatura.  
+* Grupo 3
+* Curso escolar: 2024/2025
+* Asignatura: Evolución y gestión de la configuración
 
-Debe ser un documento presentado de manera profesional guardando la forma en los estilos y contenidos y con el máximo nivel de rigor académico y profesional.
+## Enlaces de interés:
+* [Repositorio de código](https://github.com/salmorejo-hub-1/uvlhub) 
+* [Sistema desplegado](https://uvlhub-salmorejo-hub.onrender.com/) 
+* [Documentación oficial](https://docs.uvlhub.io/) 
+* [Documento del Proyecto](https://github.com/salmorejo-hub-1/uvlhub/tree/main/docs/Documento-del-Proyecto.md) 
+* [Diario del Equipo](https://github.com/salmorejo-hub-1/uvlhub/tree/main/docs/Diario-del-Equipo.md) 
 
-Este curso se recomienda que el documento se aloje o bien en el [wiki de la asignatura](https://1984.lsi.us.es/wiki-egc/) o bien en el repositorio del proyecto usando para ello el lenguaje de [markdown](https://guides.github.com/features/mastering-markdown/) que ofrece github. En todo caso, debe ser un documento elaborado en formato [wiki]. 
-
-Tenga en cuenta los siguientes comentarios generales: 
-
-* Siempre diferencie claramente las secciones y subsecciones y para ello use etiquetas de encabezado como las que se disponen en los lenguajes tipo _markdown_
-
-# Apartados del documento 
-
-El documento del proyecto tendrá (al menos) que sintetizar los siguientes apartados:
+---
 
 ### Indicadores del proyecto
 
-(_debe dejar enlaces a evidencias que permitan de una forma sencilla analizar estos indicadores, con gráficas y/o con enlaces_)
-
 Miembro del equipo  | Horas | Commits | LoC | Test | Issues | Work Item|
 ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- | 
-[Apellidos, nombre](https://github.com/nombredeusuariodegithub) | HH | XX | YY | ZZ | II | Descripción breve 
-[Apellidos, nombre](https://github.com/nombredeusuariodegithub) | HH | XX | YY | ZZ | II | Descripción breve 
-[Apellidos, nombre](https://github.com/nombredeusuariodegithub) | HH | XX | YY | ZZ | II | Descripción breve 
+[Cantero Corchero, Isabel](https://github.com/isacancor) | HH | XX | YY | ZZ | II | WI-2-Generate API token
+[Fuentelsaz Rodríguez, David](https://github.com/DavidFuentelsazRodriguez) | HH | XX | YY | ZZ | II | WI-5-Advanced filtering
+[Galán Lerate, Miguel](https://github.com/Migueel0) | HH | XX | YY | ZZ | II | Fakenodo 
+[Jiménez Ortega, Antonio](https://github.com/antjimort) | HH | XX | YY | ZZ | II | WI-7-Sign-Up-Validation
+[Rodríguez López, Josué](https://github.com/JosueRodLop) | HH | XX | YY | ZZ | II | WI-6-Bot-Integration
+[Santos Martín, Javier](https://github.com/javsanmar5) | HH | XX | YY | ZZ | II | WI-1-Remember my password, WI-4-Rosemary CLI
 **TOTAL** | tHH  | tXX | tYY | tZZ | tII | Descripción breve 
 
 La tabla contiene la información de cada miembro del proyecto y el total de la siguiente forma: 
@@ -35,9 +35,7 @@ La tabla contiene la información de cada miembro del proyecto y el total de la 
 
 ### Integración con otros equipos
 Equipos con los que se ha integrado y los motivos por lo que lo ha hecho y lugar en el que se ha dado la integración: 
-* [Nombre-del-equipo](https://github.com/nombredeusuariodegithub): breve descripción de la integración 
-* [Nombre-del-equipo](https://github.com/nombredeusuariodegithub): breve descripción de la integración 
-* [Nombre-del-equipo](https://github.com/nombredeusuariodegithub): breve descripción de la integración 
+* [salmorejo-hub-2](https://github.com/salmorejo-hub-2/uvlhub): breve descripción de la integración 
 
 ## Resumen ejecutivo (800 palabras aproximadamente)
 Se sintetizará de un vistazo lo hecho en el trabajo y los datos fundamentales. Se usarán palabras para resumir el proyecto presentado. Contendrá, al menos la siguiente información: 
